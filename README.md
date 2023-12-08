@@ -11,7 +11,7 @@ This project is largely unfinished. As you can see if you look inside the main f
 
 Here is a link to a youtube video with me demonstrating the program and explaining some modifications I made to the original sine wave formula to add modulation.
 
-[Demo Video](https://youtube.com/idk)
+[Demo Video](https://youtu.be/-LbBSpipwbg)
 
 
 # Compilation
